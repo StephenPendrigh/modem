@@ -7,7 +7,7 @@
 package serial
 
 import (
-	"github.com/tarm/serial"
+	"github.com/StephenPendrigh/serial"
 )
 
 // New creates a serial port.
